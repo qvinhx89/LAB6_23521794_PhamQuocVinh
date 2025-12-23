@@ -1,0 +1,7 @@
+[
+  { "id": 1, "title": "Next.js Routing Basics", "content": "Learn file-based routing with pages router." },
+  { "id": 2, "title": "Static Generation", "content": "Use getStaticProps to pre-render content." },
+  { "id": 3, "title": "Dynamic Paths", "content": "getStaticPaths builds dynamic routes." },
+  { "id": 4, "title": "Fallback Modes", "content": "Handle fallback: true with loading states." },
+  { "id": 5, "title": "Deployment Tips", "content": "Optimize images and fonts for production." }
+]
